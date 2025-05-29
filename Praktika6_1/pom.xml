@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.example.statistic</groupId>
-  <artifactId>Pr6_Svelpe</artifactId>
+  <artifactId>Praktika6_1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Pr6_Svelpe</name>
+  <name>Praktika6_1</name>
   <url>http://maven.apache.org</url>
 
   <properties>
